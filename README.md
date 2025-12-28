@@ -21,10 +21,12 @@ Scripts reference local data directories used during the PhD, including the foll
 
 GBM_single_cell_analysis/
 ├── data/
+
 └── outputs/
 
 GBM_spatial_analysis/
 ├── data/
+
 └── outputs/
 
 These directories are expected to exist outside the repository root and contain processed data objects generated during the analysis pipeline.

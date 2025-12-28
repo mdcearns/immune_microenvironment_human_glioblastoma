@@ -20,11 +20,13 @@ The code is provided to document the analytical approach, processing steps, and 
 Scripts reference local data directories used during the PhD, including the following examples, as well as additional subdirectories specifically referenced within the code:
 
 GBM_single_cell_analysis/
+
 ├── data/
 
 └── outputs/
 
 GBM_spatial_analysis/
+
 ├── data/
 
 └── outputs/
